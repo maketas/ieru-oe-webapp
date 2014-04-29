@@ -321,6 +321,8 @@ a:hover  { text-decoration:none; color:#46ad96; }
 #slide4 div {
 	display: inline-block;
 	margin-right: 18px;
+	vertical-align:top;
+	max-width: 280px;
 }
 #slide4 div > * {
 	display: block;
